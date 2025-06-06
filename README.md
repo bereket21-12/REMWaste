@@ -47,7 +47,8 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 ### Skip Card Grid
 
-![Skip Card Grid Screenshot](/public/Screenshot%20from%202025-06-06%2011-19-01.png)
+![Skip Card Grid Screenshot](/public/Screenshot from 2025-06-06 11-36-21.png)
+![Skip Card Grid Screenshot](/public/Screenshot from 2025-06-06 11-36-31.png)
 
 ### Skip Details Popup
 
