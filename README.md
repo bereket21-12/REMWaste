@@ -57,3 +57,13 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 - The UI is more intuitive and visually engaging, making it easier for users to compare and select skips.
 - The modal popup prevents context loss and keeps the user focused on their selection.
 - Accessibility and responsiveness were considered in the redesign.
+
+## Screenshots
+
+### Skip Card Grid
+
+![Skip Card Grid Screenshot](/public/Screenshot%20from%202025-06-06%2011-19-01.png)
+
+### Skip Details Popup
+
+![Skip Details Popup Screenshot](/public/Screenshot%20from%202025-06-06%2011-19-19.png)
