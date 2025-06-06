@@ -55,7 +55,7 @@ export default function SkipGrid({ skips }: Props) {
             borderRadius: 3,
             maxWidth: 650,
             p: 0,
-            height: 400,
+            height: "auto",
             backgroundImage: "none",
             boxShadow: "0 16px 48px rgba(0, 0, 0, 0.16)",
             overflow: "hidden",
